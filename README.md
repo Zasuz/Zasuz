@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+ 🔭 I’m currently studies on SaiGon University
+ 
+ 🌱 I’m reaching to become Front-end Developer
+
+ Contact to me : trangialam91b@gmail.com
+ 
+
 <!--
 **Zasuz/Zasuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
